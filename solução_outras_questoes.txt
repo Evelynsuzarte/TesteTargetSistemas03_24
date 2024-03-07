@@ -1,0 +1,37 @@
+1. O valor será 91
+
+
+3. 
+
+a)9
+b)128
+c)77
+d)100
+e)13
+f)200
+
+
+4.
+
+São 3 lâmpadas, 3 salas e 3 interruptores
+Podemos fazer da seguinte forma:
+1. Ligamos o interruptor 1, esperamos um pouco e desligamos
+2. O interruptor 2 deixamos ligado
+3. O interruptor 3 deixamos desligados
+
+Como precisamos verificar apenas em duas salas, podemos seguir duas alternativas.
+1. Vamos na sala 1 com a lampada apagada e observamos se ela está quente, significa que foi ligada e desligada
+2. Vamos na sala 2 e observamos se a lampada está acesa.
+3. Não iremos na sala 3 pois já verificamos as outras duas salas.
+Assim concluimos que:
+SALA 1: Interruptor 1
+SALA 2: Interruptor 2
+SALA 3: Interruptor 3
+
+Ou como a segunda alternativa, podemos:
+1. Vamos na sala 1 e observamos que a lâmpada está apagada está quente, pois foi ligada e desligada
+2. Vamos na sala 3 e observamos que a lâmpada está apagada e fria
+3. Não iremos na sala 2 pois já podemos concluir que:
+SALA 1: Interruptor 1
+SALA 2: Interruptor 2
+SALA 3: Interruptor 3
